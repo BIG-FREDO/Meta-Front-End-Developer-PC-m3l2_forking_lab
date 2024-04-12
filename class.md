@@ -32,7 +32,7 @@
 - ### **F**
   
   Faisal KSA version control
-- [Fredo](https://github.com/BIG-FREDO) Front-End Development
+-[Fredo](https://github.com/BIG-FREDO) Front-End Development
     
 - ### **G**
 
