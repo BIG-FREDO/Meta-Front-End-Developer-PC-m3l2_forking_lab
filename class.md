@@ -32,7 +32,8 @@
 - ### **F**
   
   Faisal KSA version control
-  
+- [Fredo](https://github.com/BIG-FREDO) Front-End Development
+    
 - ### **G**
 
   -[GuylaineP](https://github.com/GuylaineP) Frontend Development
@@ -79,5 +80,4 @@
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
 
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
-
-  - [fredo](https://github.com/BIG-FREDO) Front-End Development 
+ 
